@@ -1,0 +1,12 @@
+[Unit]
+Description=InEcLabs,com Kodi trial
+
+[Service]
+Type=simple
+SuccessExitStatus=0 1
+IOSchedulingClass=realtime
+IOSchedulingPriority=0
+ExecStart=/usr/bin/kodi
+
+[Install]
+WantedBy=basic.target
