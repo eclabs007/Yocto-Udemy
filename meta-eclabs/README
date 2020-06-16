@@ -5,15 +5,7 @@ Please see the corresponding sections below for details.
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
 
-  URI: <second dependency>
-  branch: <branch name>
-
-  .
-  .
-  .
 
 Patches
 =======
@@ -21,7 +13,7 @@ Patches
 Please submit any patches against the meta-eclabs layer to the xxxx mailing list (xxxx@zzzz.org)
 and cc: the maintainer:
 
-Maintainer: XXX YYYYYY <xxx.yyyyyy@zzzzz.com>
+Maintainer: ineclabs.com <eclabs007@gmail.com>
 
 Table of Contents
 =================
