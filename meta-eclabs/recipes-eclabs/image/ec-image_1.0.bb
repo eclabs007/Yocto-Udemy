@@ -36,7 +36,8 @@ RM_OLD_IMAGE = "1"
 
 IMAGE_INSTALL_append = " systemd-analyze"
 
-# Install kodi
+# Install kodi Demo for Udemy course Yocto Zero To Hero 
+
 IMAGE_INSTALL += "kodi \
 kodi-ec-config \
 libavcodec \
