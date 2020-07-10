@@ -5,7 +5,10 @@ Yocto training for Udemy course
 	Meta-raspberrypi
 	Yocto-Udemy (from eclabs git)
 
+
 ### Full Course > https://www.udemy.com/course/yocto-zero-to-hero/?referralCode=C3730FEA21E4C17062BE
+
+[![Yocto](http://img.youtube.com/vi/9xomG6W_SpI/0.jpg)](https://youtu.be/9xomG6W_SpI "ECLABS Tutorial")
 ### git clone -b zeus git://git.yoctoproject.org/poky.git poky-zeus 
  cd poky-zeus ; 
  git checkout c77dade37c92bb3a25686a6759a231881bb96477
