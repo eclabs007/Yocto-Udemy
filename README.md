@@ -12,7 +12,7 @@ Yocto training for Udemy course
 ### git clone -b zeus git://git.yoctoproject.org/poky.git poky-zeus 
  cd poky-zeus ; 
  git checkout c77dade37c92bb3a25686a6759a231881bb96477
-### git clone -b zeus git://git.openembedded.org/meta-openembedded git clone -b zeus 
+### git clone -b zeus git://git.openembedded.org/meta-openembedded 
  cd meta-openembedded
  git checkout 9e60d30669a2ad0598e9abf0cd15ee06b523986b
  cd ../ ;
